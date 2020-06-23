@@ -7,6 +7,8 @@ This tutorial is designed for those who want to learn the basics of T-SQL.
 # Prerequisites
 To go ahead with this tutorial, familiarity with database concepts is preferred. It is good to have SQL Server installed on your computer, as it might assist you in executing the examples yourself and get to know how it works.
 
+# Overview
+
 In 1970's the product called 'SEQUEL', structured English query language, developed by IBM and later SEQUEL was renamed to 'SQL' which stands for Structured Query Language.
 
 In 1986, SQL was approved by ANSI (American national Standards Institute) and in 1987, it was approved by ISO (International Standards Organization).
